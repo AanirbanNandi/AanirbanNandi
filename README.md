@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aanirbannandi" target="blank"><img src="https://img.shields.io/twitter/follow/aanirbannandi?logo=twitter&style=for-the-badge" alt="aanirbannandi" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/vPrrEmwNrc9SeCeP8">
+<img align="right" alt="coding" width="400" src= "https://images.app.goo.gl/vPrrEmwNrc9SeCeP8" >
 
 - 🌱 I’m currently learning *Data Science from IIT Madras and Computer Science Engineering from MAKAUT(WBUT)*
 
