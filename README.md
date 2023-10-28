@@ -1,3 +1,6 @@
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=A13B3B&size=20&center=true&vCenter=true&lines=!+!+Welcome+to+my+Profile+!+!;Hi+I+am+Anirban;I+am+excited+to+learn+and+grow;Interested+in+Web-Dev+and+coding...;Have+a+great+day+ahead+!!"></p>
+
+
 <h1 align="center">Hi 👋, I'm Anirban Nandi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
